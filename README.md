@@ -24,3 +24,4 @@ cleanIP/优选IP：地址1https://stock.hostmonit.com/CloudFlareYes
 
 PROXYIP：点击进入1https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 点击进入2https://ipdb.030101.xyz/bestproxy/
+https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
