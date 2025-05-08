@@ -17,6 +17,10 @@ BPB面板设置
 •配置BPB面板参数
 
 常用IP获取方式
-cleanIP/优选IP：地址1  地址2  地址3  地址4
+cleanIP/优选IP：地址1https://stock.hostmonit.com/CloudFlareYes
+地址2https://ipdb.030101.xyz/bestcf/
+地址3 https://www.wetest.vip/page/cloudflare/address_v4.html
+地址4
+
 PROXYIP：点击进入1https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 点击进入2https://ipdb.030101.xyz/bestproxy/
